@@ -1,0 +1,1 @@
+This is Waka’s first git project!
